@@ -1,0 +1,9 @@
+-rootPath
+C:/Users/97798/Documents/compiler_design
+-cmake-output
+-output-file
+C:/Users/97798/Documents/compiler_design/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/compiler_design_conf.cmake
+-importPath
+C:/Users/97798/Documents/compiler_design/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.2/mingw_64/./qml

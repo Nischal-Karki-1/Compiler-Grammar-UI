@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bdbbabed52115ac4892f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "compiler_design",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "compiler_design::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compiler_design-Debug-9a80f12e39e749923f59.json",
+					"name" : "compiler_design",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "compiler_design_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compiler_design_autogen-Debug-ba7d43e7825314c26fa5.json",
+					"name" : "compiler_design_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "compiler_design_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compiler_design_autogen_timestamp_deps-Debug-368ae5d8ce2d9a999b47.json",
+					"name" : "compiler_design_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "compiler_design_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compiler_design_qmlimportscan-Debug-48648d267a25286017c2.json",
+					"name" : "compiler_design_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/97798/Documents/compiler_design/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/97798/Documents/compiler_design"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

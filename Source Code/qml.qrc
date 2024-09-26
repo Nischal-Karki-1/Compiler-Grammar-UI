@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/assests/five_off.png</file>
+        <file>components/assests/five_on.png</file>
+        <file>components/assests/four_off.png</file>
+        <file>components/assests/four_on.png</file>
+        <file>components/assests/one_off.png</file>
+        <file>components/assests/one_on.png</file>
+        <file>components/assests/six_off.png</file>
+        <file>components/assests/six_on.png</file>
+        <file>components/assests/three_off.png</file>
+        <file>components/assests/three_on.png</file>
+        <file>components/assests/two_off.png</file>
+        <file>components/assests/two_on.png</file>
+        <file>components/TopBar/TopBar.qml</file>
+        <file>components/QuestionOne/QuestionOne.qml</file>
+        <file>components/QuestionTwo/QuestionTwo.qml</file>
+        <file>components/QuestionThree/QuestionThree.qml</file>
+        <file>components/QuestionFour/QuestionFour.qml</file>
+        <file>components/QuestionFive/QuestionFive.qml</file>
+        <file>components/QuestionSix/QuestionSix.qml</file>
+    </qresource>
+</RCC>
